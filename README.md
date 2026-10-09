@@ -1,6 +1,6 @@
 # Hi, I’m Muthu 👋
 
-I’m a Full-Stack Engineer and hands-on Technical Lead based in Rhode Island, with 18+ years of software engineering experience across insurance, financial services, and eLearning.
+I’m a Full-Stack Engineer and hands-on Technical Lead based in Rhode Island, with 15+ years of software engineering experience across insurance, financial services, and eLearning.
 
 I build web applications, backend APIs, and cloud services, and help teams modernize legacy systems through incremental, reliable delivery.
 
