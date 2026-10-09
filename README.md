@@ -6,7 +6,7 @@ I build web applications, backend APIs, and cloud services, and help teams moder
 
 ## What I work on
 
-- **Full-stack development:** React, Next.js, TypeScript, Node.js, and Express.js.
+- **Full-stack development:** React, Next.js, TypeScript, Node.js, and Java.
 - **Cloud architecture:** AWS serverless applications, microservices, and event-driven integrations.
 - **Application modernization:** Moving legacy capabilities into modular services while maintaining business continuity.
 - **Engineering leadership:** Technical design, code reviews, mentoring, testing, and production delivery.
