@@ -17,7 +17,7 @@ I build web applications, backend APIs, and cloud services, and help teams moder
 | Area | Technologies |
 |---|---|
 | Frontend | React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Material UI |
-| Backend & APIs | Node.js, Express.js, REST APIs |
+| Backend & APIs | Node.js, Express.js, REST APIs, SpringBoot Integration |
 | Data | PostgreSQL, Amazon Aurora PostgreSQL, MongoDB, Redis, Prisma |
 | AWS | Lambda, API Gateway, Step Functions, EventBridge, S3, SQS, SNS, CloudWatch |
 | Messaging | Kafka, asynchronous processing, event-driven architecture |
